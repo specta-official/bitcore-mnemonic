@@ -49,7 +49,7 @@
     }
   ],
   "dependencies": {
-    "bitcore-lib": "^0.16.0",
+    "bitcore-lib": "https://github.com/specta-official/bitcore-lib.git",
     "unorm": "^1.4.1"
   },
   "deprecated": false,

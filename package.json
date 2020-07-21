@@ -40,7 +40,7 @@
     "mocha": "^5.2.0"
   },
   "dependencies": {
-    "bitcore-lib": "^0.16.0",
+    "bitcore-lib": "https://github.com/specta-official/bitcore-lib.git",
     "unorm": "^1.4.1"
   },
   "peerDependencies": {
